@@ -14,5 +14,7 @@ object PluginMain : KotlinPlugin(
 ) {
     override fun onEnable() {
         logger.info { "Plugin loaded" }
+       
+         "null"reply "null"
     }
 }
