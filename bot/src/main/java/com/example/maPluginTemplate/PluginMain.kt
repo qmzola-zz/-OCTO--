@@ -9,7 +9,7 @@ object PluginMain : KotlinPlugin(
     JvmPluginDescription(
         id = "org.example.mirai-plugin",
         name = "ExamplePlugin",
-        version = "0.0.2"
+        version = "0.0.1"
     )
 ) {
     override fun onEnable() {
